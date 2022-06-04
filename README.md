@@ -2,30 +2,20 @@
 
 This repository contains Final code for The Portfolio Website in ReactJS. <br />
 
-<!-- View Demo👇: <br />
-<!-- <br /> -->
-
-<!-- If you want to learn how to create it please follow below tutorial👇: <br /> -->
-
-<!-- <br /> -->
-
-<!-- ⚠⚠⚠ If you want full code of this website then you can get it from here👇: <br /> -->
-
-<!-- <br /> -->
 
 You'll get code files which contans code for responsive portfolio website with
 all the animations.
 
 ### Images of The Portfolio Website:
 
-![HOME](https://github.com/eyaboudaya1/project-portfolio/blob/main/src/assets/screenshots/portf1.png)
-![Intro](https://github.com/eyaboudaya1/project-portfolio/blob/main/src/assets/screenshots/portf2.png)
-![Intro](https://github.com/eyaboudaya1/project-portfolio/blob/main/src/assets/screenshots/portf3.png)
-![About](https://github.com/eyaboudaya1/project-portfolio/blob/main/src/assets/screenshots/portf4.png)
-![Skills](https://github.com/eyaboudaya1/project-portfolio/blob/main/src/assets/screenshots/portf5.png)
-![Work](https://github.com/eyaboudaya1/project-portfolio/blob/main/src/assets/screenshots/portf6.png)
-![Work](https://github.com/eyaboudaya1/project-portfolio/blob/main/src/assets/screenshots/portf7.png)
-![NotFound](https://github.com/eyaboudaya1/project-portfolio/blob/main/src/assets/screenshots/portf8.png)
+![HOME](https://github.com/eyaboudaya1/portfolioWebSite/blob/main/screenshots/portf1.png)
+![Intro](https://github.com/eyaboudaya1/portfolioWebSite/blob/main/screenshots/portf2.png)
+![Intro](https://github.com/eyaboudaya1/portfolioWebSite/blob/main/screenshots/portf3.png)
+![About](https://github.com/eyaboudaya1/portfolioWebSite/blob/main/screenshots/portf4.png)
+![Skills](https://github.com/eyaboudaya1/portfolioWebSite/blob/main/screenshots/portf5.png)
+![Work](https://github.com/eyaboudaya1/portfolioWebSite/blob/main/screenshots/portf6.png)
+![Work](https://github.com/eyaboudaya1/portfolioWebSite/blob/main/screenshots/portf7.png)
+![NotFound](https://github.com/eyaboudaya1/portfolioWebSite/blob/main/screenshots/portf8.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
